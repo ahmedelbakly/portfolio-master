@@ -4,7 +4,7 @@ import Typical from "react-typical";
 import { Row, Col } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import myPhoto from "../../assets/images/myPhoto.jpg";
-import MyCv from "../../assets/files/MyCv.pdf";
+import MyCv from "../../assets/files/ahmed-elbakly.pdf";
 
 const Home = () => {
   return (
